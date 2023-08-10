@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-10T13:13:29 UTC" name="Surefire suite" finished-at="2023-08-10T13:13:55 UTC" duration-ms="26083">
+  <suite started-at="2023-08-10T13:46:57 UTC" name="Surefire suite" finished-at="2023-08-10T13:47:21 UTC" duration-ms="24501">
     <groups>
     </groups>
-    <test started-at="2023-08-10T13:13:29 UTC" name="Surefire test" finished-at="2023-08-10T13:13:55 UTC" duration-ms="26083">
+    <test started-at="2023-08-10T13:46:57 UTC" name="Surefire test" finished-at="2023-08-10T13:47:21 UTC" duration-ms="24501">
       <class name="testcases.Testcase1">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:29 UTC" name="beforeMethod" finished-at="2023-08-10T13:13:33 UTC" duration-ms="4404" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:46:57 UTC" name="beforeMethod" finished-at="2023-08-10T13:47:02 UTC" duration-ms="4528" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Register()[pri:1, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:33 UTC" name="Register" finished-at="2023-08-10T13:13:41 UTC" duration-ms="7828" status="PASS">
+        <test-method signature="Register()[pri:1, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:47:02 UTC" name="Register" finished-at="2023-08-10T13:47:09 UTC" duration-ms="7296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Register -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:41 UTC" name="afterMethod" finished-at="2023-08-10T13:13:42 UTC" duration-ms="609" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:47:09 UTC" name="afterMethod" finished-at="2023-08-10T13:47:10 UTC" duration-ms="677" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:43 UTC" name="beforeMethod" finished-at="2023-08-10T13:13:46 UTC" duration-ms="2548" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:47:10 UTC" name="beforeMethod" finished-at="2023-08-10T13:47:13 UTC" duration-ms="2641" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Valid_Login_TC(java.lang.String,java.lang.String)[pri:2, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:46 UTC" name="Valid_Login_TC" data-provider="testData" finished-at="2023-08-10T13:13:49 UTC" duration-ms="2858" status="PASS">
+        <test-method signature="Valid_Login_TC(java.lang.String,java.lang.String)[pri:2, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:47:13 UTC" name="Valid_Login_TC" data-provider="testData" finished-at="2023-08-10T13:47:16 UTC" duration-ms="2662" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,19 +39,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Valid_Login_TC -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:49 UTC" name="afterMethod" finished-at="2023-08-10T13:13:49 UTC" duration-ms="161" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:47:16 UTC" name="afterMethod" finished-at="2023-08-10T13:47:16 UTC" duration-ms="149" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:49 UTC" name="beforeMethod" finished-at="2023-08-10T13:13:52 UTC" duration-ms="2842" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:47:16 UTC" name="beforeMethod" finished-at="2023-08-10T13:47:18 UTC" duration-ms="2496" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="TC_Vote_003()[pri:3, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:52 UTC" name="TC_Vote_003" finished-at="2023-08-10T13:13:55 UTC" duration-ms="3088" status="PASS">
+        <test-method signature="TC_Vote_003()[pri:3, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:47:18 UTC" name="TC_Vote_003" finished-at="2023-08-10T13:47:21 UTC" duration-ms="2978" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_Vote_003 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:13:55 UTC" name="afterMethod" finished-at="2023-08-10T13:13:55 UTC" duration-ms="149" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testcases.Testcase1@d86a6f]" started-at="2023-08-10T13:47:21 UTC" name="afterMethod" finished-at="2023-08-10T13:47:21 UTC" duration-ms="176" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
